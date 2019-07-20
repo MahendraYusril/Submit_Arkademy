@@ -1,1 +1,10 @@
 
+
+        is_username_valid(‘Arkademy46’)
+	return true
+        is_username_valid(‘_Arka46’)
+	return false
+        is_password_valid(‘Iam=Arkademy46’)
+	return true
+        is_password_valid(‘Iam_Arkademy46’)
+	return false
