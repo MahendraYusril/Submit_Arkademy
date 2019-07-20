@@ -1,1 +1,57 @@
-
+{
+  "name"       : "Mahendra Yusril",
+  "age"        : "18",
+  "address"    : "Bandung",
+  "hobbies"    : [
+    {
+      "football"
+    },
+    {
+      "playing games"
+    },
+    { 
+      "design"
+    },
+    {
+      "editing"
+    },
+    {
+      "make music"
+    },
+    {
+      "crossword puzzle"
+    }
+    ],
+  "is_maried"   : "false",
+  "list_school" : [
+    {
+      "elementary_school" : "SDN Lambang Sari 04"
+      "year_in"  : "2008"
+      "year_out" : "2013"
+      "major"    : "null"
+    },
+    {
+      "junior_high_school" : "SMPN 9 Tambun Selatan"
+      "year_in"  : "2013"
+      "year_out" : "2016"
+      "major"    : "null"
+    },
+    {
+      "senior_high_school" : "SMAN 5 Tambun Selatan"
+      "year_in"  : "2016"
+      "year_out" : "2019"
+      "major"    : "Math and Science"
+    }
+    ],
+  "skills"     : [
+    {
+      "skill_name" : "python"
+      "level"      : "beginner"
+    },
+    {
+      "skill_name" : "html"
+      "level"      : "intermediate"
+    },
+    ],
+  "interest_in_coding" : "true"
+  }
