@@ -3,6 +3,7 @@ def rara_order()
 total_harga = 100000
 ARKAFOOD5 = (total_harga / 2)
 ongkos_jarak = 5000
-total = (total_harga + ongkos_jarak)
+pajak = 0
+total = (total_harga + ongkos_jarak + pajak)
 print(total - ARKAFOOD5)
    rara_order()
